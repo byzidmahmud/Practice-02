@@ -1,2 +1,2 @@
 # Practice-02
-HTML learning using img tag with its attribute. 
+https://byzidmahmud.github.io/Practice-02/
